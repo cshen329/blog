@@ -1,0 +1,36 @@
+I"#<h3 id="hot-weather-and-residential-hourly-electricity-demand-in-italy">“Hot weather and residential hourly electricity demand in Italy”</h3>
+
+<p>with Anna Alberini, Giuseppe Prettico, and Jacopo Torriti. <em>Energy</em>, 177, 44-56 (2019). <a href="https://doi.org/10.1016/j.energy.2019.04.051">Available here</a></p>
+
+<p>Concerns about climate change, pollution, and energy security have prompted policies aimed at replacing fossil fuels with electricity – presumably generated from renewable sources. Climate change itself is expected to increase demand for cooling in buildings, which is generally met by electricity-powered air conditioning. We use hourly electricity demand from a sample of Italian residences over a full year to examine how sensitive residential demand is to temperature. Our regression model includes a rich set of household-by-time fixed effects to control for dwelling characteristics and equipment, family composition, work and business schedules, demand for lighting, and seasonal habits other than temperature. This allows us to separate the effect of temperature from the demand for lighting and from other seasonal effects that may be correlated with temperature, but are not temperature. We find that demand stays unchanged within a relatively narrow range (and is thus relatively flat) up to temperatures of about 24.4 °C, and increases sharply with temperature thereafter. We find that temperature accounts for a very small share of daily electricity demand. Only on exceptionally hot summer days can temperature account for 12% of hourly electricity use.</p>
+
+<p><br /></p>
+
+<h3 id="counting-vehicle-miles-traveled-what-can-we-learn-from-the-nths">“Counting vehicle miles traveled: What can we learn from the NTHS?”</h3>
+
+<p>with Anna Alberini, Lavan Teja Burra, Cinzia Cirillo. Submitted to <em>Transportation Research Part D</em></p>
+
+<p>An accurate estimate of vehicle miles traveled (VMT) is an essential input into a variety of emissions, climate change, energy, and infrastructure-planning models. We examine different measures of annual miles driven from the 2017 National Household Travel Survey (NHTS), a major source of data on the individual travel behavior of Americans. The 2017 NHTS dataset includes a self-reported measure and an imputed measure of annual VMT for a nationally representative sample of households. We propose two additional estimates of annual VMT derived using the odometer reading and the age of the vehicle, and the trip diary information contained in the NHTS, respectively. We compare these four measures of annual VMT, seek to identify low/high mileage segments of the fleet, and examine the quality of the data and their internal validity. We find that the price elasticity of VMT (-0.275 to -0.20) is comparable across each of these four measures. Quantile regressions indicate that the households with higher driving intensity are less responsive to driving cost per mile. As cars get older, the difference between the four VMT measures tends to increase. This implies large discrepancies in the CO2 emissions that would be saved, for example, when older cars are removed from the fleet, such as when “cash for clunkers” programs are implemented.</p>
+
+<p><br /></p>
+
+<h3 id="the-value-of-fuel-economy-evidence-from-the-chinese-passenger-vehicle-market">“The value of fuel economy: Evidence from the Chinese passenger vehicle market”</h3>
+
+<p><br />In this study, I estimate Chinese consumers’ valuation of fuel economy in the new car market using new vehicle registration records and online website comment data. I find that the new vehicle market displays full valuation, ranging from 85-105% under different specifications and assumptions of annual vehicle kilometers traveled. Consumer accessibility to reliable fuel economy information has a positive impact on the valuation ratio. One policy implication of these findings is, for new car markets, a gasoline tax or carbon tax could be the most efficient tool given the high valuation of fuel economy. The simulation results suggest that increasing the gasoline tax is a very effective way to reduce total gasoline consumption from automobiles and help China fulfill its pledge to peak its carbon emission by 2030.</p>
+
+<p><br /></p>
+
+<h3 id="the-effect-of-income-on-vehicle-demand-evidence-from-chinas-new-vehicle-market">“The effect of income on vehicle demand: Evidence from China’s new vehicle market”</h3>
+
+<p>with Joshua Linn</p>
+
+<p>Growth of private vehicle ownership in low-income and emerging countries is a dominant factor in forecasts of global oil demand and greenhouse gas emissions. Countries such as China are expected to experience rapid income growth over the next few decades, but there is little empirical evidence linking income growth and car ownership in these countries. Using city-level data on new car sales and income from 2005-2017, and using export-led growth to isolate plausibly exogenous income variation, we estimate an elasticity of new car sales to income of about 2.6. This estimate indicates that recent projections of vehicle sales in China have understated actual sales by 40 percent.</p>
+
+<p><br /></p>
+
+<h3 id="the-impact-of-high-emission-trucks-on-no2-evidence-from-a-quasi-experiment-in-beijing">“The impact of high-emission trucks on NO2: Evidence from a quasi-experiment in Beijing”</h3>
+
+<p><br />Trucks play a large role in traffic-related pollution but receive less attention in the literature than gasoline vehicles. The Beijing government issued a new order which extended the ban on high-emission, non-local cargo trucks to areas between the 5th and 6th ring roads (the semi-urban area of Beijing) from midnight to 6 am. I use this as a quasi-experiment and employ a triple differences technique to evaluate the effect of this policy. The result suggests that the policy helped reduce NO2 by 1.26 μg/m3, or approximately 2.6% of the NO2 level. Additionally, it was found that weather stations located in areas with a high density of major roads, fewer natural surroundings, and more buildings saw a larger policy effect than their counterparts.</p>
+
+<p><br /></p>
+:ET

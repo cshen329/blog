@@ -1,5 +1,12 @@
-_site
+*.gem
+*.sh
+assets/img
+assets/favicons
+.bundle
 .sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+_site
+_posts
+_config.yml
+*.md
+!README.md
+Gemfile.lock

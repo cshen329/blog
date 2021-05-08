@@ -1,0 +1,69 @@
+---
+layout: page
+title: Category
+---
+
+{% comment %}
+=======================
+The following part extracts all the cats from your posts and sort cats, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawcats = "" %}
+{% for post in site.posts %}
+	{% assign tcats = post.categories | join:'|' | append:'|' %}
+	{% assign rawcats = rawcats | append:tcats %}
+{% endfor %}
+{% assign rawcats = rawcats | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated cats and invalid cats like blank cat.
+=======================
+{% endcomment %}
+{% assign cats = "" %}
+{% for cat in rawcats %}
+	{% if cat != "" %}
+		{% if cats == "" %}
+			{% assign cats = cat | split:'|' %}
+		{% endif %}
+		{% unless cats contains cat %}
+			{% assign cats = cats | join:'|' | append:'|' | append:cat | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all the cats you have in your site.
+=======================
+{% endcomment %}
+{% for cat in cats %}
+	<a href="#{{ cat | slugify }}"> {{ cat }} </a>
+{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+{% for cat in cats %}
+	<h2 id="{{ cat | slugify }}">{{ cat }}</h2>
+	<ul>
+	 {% for post in site.posts %}
+		 {% if post.categories contains cat %}
+		 <li>
+		 <h3>
+		 <a href="{{ post.url }}">
+		 {{ post.title }}
+		 <small>{{ post.date | date_to_string }}</small>
+		 </a>
+		 {% for cat in post.categories %}
+			 <a class="cat" href="cats/#{{ cat | slugify }}">{{ cat }}</a>
+		 {% endfor %}
+		 </h3>
+		 </li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
+{% endfor %}
