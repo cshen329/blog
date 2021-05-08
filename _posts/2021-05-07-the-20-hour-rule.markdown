@@ -7,7 +7,7 @@ tags: [TED, Summary]
 
 ---
 
- [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) 
+ [The first 20 hours -- how to learn anything by Josh Kaufman at TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) 
 
 A great Ted talk by Josh Kaufman.
 
