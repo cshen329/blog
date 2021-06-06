@@ -2,8 +2,8 @@
 layout: post
 title:  "The 20-hour rule"
 date:   2021-05-07 19:22:26 -0400
-categories: [Learning]
-tags: [TED, Summary]
+categories: [Life]
+tags: [TED, Summary,Learning]
 
 ---
 
@@ -15,7 +15,7 @@ Only takes 15 minutes to watch if speed it up to 1.5x.
 
 In the TED talk, Josh Kaufman talked about how the 10K hours rule is a social media lie and you can get reasonably good at a skill by 20 hours and how to do it.
 
-It really speaks to a perfectionist like me, who procrastinate on learning new skills because I habitually set too high standards for myself and learning new things becomes scary. 
+It really speaks to a perfectionist like me, who procrastinates on learning new skills because I habitually set too high standards for myself and learning new things becomes scary. 
 
 **My notes:**
 
